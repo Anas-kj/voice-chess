@@ -2,7 +2,8 @@
 
 An interactive chess game built with **React, TypeScript, and Vite**, featuring an AI opponent powered by the **Minimax algorithm**, voice commands, and real-time move analysis.
 
-![Chess Bot Demo](demo.gif)
+https://github.com/user-attachments/assets/30f3d612-172c-4e52-94cb-666860ca7ffd
+
 
 ---
 
